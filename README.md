@@ -1,3 +1,3 @@
 # React homework 03
 
-https://magdalenapezacka.github.io/goit-react-hw-03-Phonebook/
+https://magdalenapezacka.github.io/goit-react-hw-03-phonebook/
